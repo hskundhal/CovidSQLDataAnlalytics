@@ -91,5 +91,5 @@ order by user_id
 -- What is the effect of late reporting or logging of attendance (e.g. what if all reports were same day)
 ---------------------------------------------------------------------------
 
-that will help in containing covid and prevent from spreading at events
+--This  will help in containing covid and prevent from spreading at events
 
